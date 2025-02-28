@@ -18,21 +18,21 @@
   
   ```
 2. Install dependencies:
-  * download the _libraries.zip_ 
-  * open arduino ide
-  * Sketch -> include library -> add .ZIP library
-  * select _libraries.zip_
-
+   * download the _libraries.zip_ 
+   * open arduino ide
+   * Sketch -> include library -> add .ZIP library
+   * select _libraries.zip_
+ 
 3. Setup the circuit:
-  * Make sure changing the pins that matches your circuit (or you can follow the diagram)
-  * connect your board to your development environment
+   * Make sure changing the pins that matches your circuit (or you can follow the diagram)
+   * connect your board to your development environment
 
 4. Upload the code:
-  * Open the project in Arduino IDE or any other IDE's
-  * select the correct board and port
-  * Compile and upload the code
+   * Open the project in Arduino IDE or any other IDE's
+   * select the correct board and port
+   * Compile and upload the code
 5. run the slot machine:
-  * Press the button to spin the wheel!
+   * Press the button to spin the wheel!
 
 ## 📷 Demo
 **
@@ -42,8 +42,8 @@ https://github.com/user-attachments/assets/88a766dc-b44b-4103-896c-aeb4acddc01c
 **
 
 ## 🎯 Future Improvements
-  * Implement a score or credit system
-  * Add Wifi/Bluetooth integration for remote control 
+   * Implement a score or credit system
+   * Add Wifi/Bluetooth integration for remote control 
 
 ## 🤝 Contributing
 Feel free to submit issues or pull requests to improve the project!
